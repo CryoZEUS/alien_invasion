@@ -1,0 +1,22 @@
+TITLE : Alien invasion
+
+
+Player controls a rocket ship that appears at the bottom of the screen
+Player can move ship right and left using arrow keys and shoot bullets using spacebar.
+
+Beginning : A fleet of alien ships appears and move across the screen.
+
+Every new wave of alien ships moves faster than the previoius wave.
+
+OBJECTIVE : PLayer moves ship and shoots alien ships.
+If an alien ship hits the player's ship or reaches the bottom of the screen, game ends.
+If the player loses 3  ships, - GAME OVER
+
+
+    Make a movable alien ship in Pygame.
+    |
+    Make it fire bullets when spacebar is pressed.
+    |
+    Work on setting up aliens and their behaviour.
+    |
+    
