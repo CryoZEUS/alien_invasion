@@ -17,6 +17,16 @@ If the player loses 3  ships, - GAME OVER
     |
     Make it fire bullets when spacebar is pressed.
     |
+    Make the bullets disappear when they should.
+    |
     Work on setting up aliens and their behaviour.
     |
-    
+    Add one up top and generate a whole fleet.
+        |
+        Make the fleet advance sideways and down.
+        |
+        Get rid of aliens hit by a bullet.
+    |
+    Limit number of ships player has.
+    |
+    Endgame when player runs out of ships.
