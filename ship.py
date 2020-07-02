@@ -36,3 +36,8 @@ class Ship:
             self.rect.x += self.settings.ship_speed
         if self.moving_left and self.rect.left > 0:
             self.rect.x -= self.settings.ship_speed
+
+    def center_ship(self):
+        """Center the ship on the screen."""
+        self.rect.midbottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
