@@ -182,7 +182,7 @@ class AlienInvasion:
         for alien in self.aliens.sprites():
             if alien.check_edges():
                 self._change_fleet_direction()
-                break
+                break  
     
     #comment out the entire if condition above to run game if the error arises.
 
